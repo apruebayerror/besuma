@@ -10,7 +10,7 @@ En la terminal del proyecto ejecutar el siguiente comando.
 go get github.com/apruebayerror/besuma
 ```
 
-## Usage
+## Example
 
 ```go
 package main
